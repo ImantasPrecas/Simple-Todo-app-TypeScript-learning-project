@@ -1,6 +1,6 @@
 # Astro.js tutorial project
 
-Took a Astro.js tutorial from official Astro.js website [Astro.js]([https://github.com/facebook/create-react-app](https://docs.astro.build/en/tutorial/0-introduction/)).
+Took a Astro.js tutorial from official Astro.js website [Astro.js]([https://github.com/facebook/create-react-app](https://docs.astro.build/en/tutorial/0-introduction/).
 
 ## Topics
 
